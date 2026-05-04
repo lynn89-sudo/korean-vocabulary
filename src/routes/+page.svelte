@@ -302,16 +302,16 @@
         animation: pulse 2s infinite ease-in-out;
         
         img {
-            max-width: 300px;
+            max-width: 280px;
             transition: transform 0.3s ease-in-out;
         }
     }
     @keyframes pulse {
         0%, 100% {
-            bottom: -110px;
+            bottom: -105px;
         }
         50% {
-            bottom: -120px;
+            bottom: -115px;
         }
     }
 
